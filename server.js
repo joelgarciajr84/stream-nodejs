@@ -24,7 +24,8 @@ fs.readFile(path.resolve(__dirname,"index.html"), function (err, data) {
 //http server
 http.createServer(function (req, res) {
     
-    var whatdoyouwnat = url.parse(req.url).pathname;
+    //var whatdoyouwnat = url.parse(req.url).pathname;
+    var whatdoyouwnat = '/';
     //improve this
             var total = current_movie.length;
 
