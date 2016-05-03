@@ -49,4 +49,4 @@ http.createServer(function (req, res) {
                 res.write(video_path, "binary");
             }
             res.end;
-}).listen(2384); 
+}).listen(process.env.PORT || 2384);
