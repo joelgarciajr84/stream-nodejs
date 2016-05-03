@@ -1,0 +1,22 @@
+{
+  "name": "stream-nodejs",
+  "version": "0.1.1",
+  "description": "It's just a simple sample of Nodejs's power for video streaming",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelgarciajr84/stream-nodejs"
+  },
+  "keywords": [
+    "node",
+    "streaming",
+    "video"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Stream Nodejs",
+  "description": "It's just a simple sample of Nodejs's power for video streaming",
+  "repository": "https://github.com/joelgarciajr84/stream-nodejs",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "streaming", "video"],
+  "image": "heroku/nodejs"
+}

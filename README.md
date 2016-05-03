@@ -1,3 +1,3 @@
 # stream-nodejs
 
-##It's just a simple example of the power of Nodejs for video streaming
+##It's just a simple sample of Nodejs's power for video streaming
